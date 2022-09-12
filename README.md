@@ -1,8 +1,8 @@
 ### Olá sou o Eliezer Nascimento, estutande de Tecnologia da Informação!👋
 
 
-- 🕵️‍♂️ Atualmente estou procurando estágio na minha área 
-- 📚 Estou cursando 3°Semestre de Ciência da computação
+- 🕵️‍♂️ Atualmente estou procurando estágio na área Tecnologia da Informação!
+- 📚 Estou cursando 4°Semestre de Ciência da computação.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
