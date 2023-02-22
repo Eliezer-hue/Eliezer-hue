@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=850&height=80&lines=Ol%C3%A1%2C+sejam+todos+bem-vindos(as)!!;Sou+Eliezer+Nascimento;Tenho+32+anos;Estudando+para+ser+um+Desenvolvedor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=850&height=80&lines=Ol%C3%A1%2C+sejam+todos+bem-vindos(as)!!;Sou+Eliezer+Nascimento;Tenho+32+anos;Estudando+para+ser+um+Desenvolvedor!!)](https://git.io/typing-svg)
 
 - Ciências da Computação.
 - 5° Semestre.
