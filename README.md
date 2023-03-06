@@ -2,7 +2,7 @@
 
 - Ciências da Computação.
 - 5° Semestre.
-- Estagiando na empresa CarãoElo.
+- Estagiando na empresa CartãoElo.
 
 <div style="display: inline_block"><br>
    <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
